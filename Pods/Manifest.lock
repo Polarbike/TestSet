@@ -1,0 +1,21 @@
+PODS:
+  - BGFMDB (2.0.13):
+    - BGFMDB/BG (= 2.0.13)
+    - BGFMDB/FMDB (= 2.0.13)
+  - BGFMDB/BG (2.0.13):
+    - BGFMDB/FMDB
+  - BGFMDB/FMDB (2.0.13)
+
+DEPENDENCIES:
+  - BGFMDB (~> 2.0.13)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BGFMDB
+
+SPEC CHECKSUMS:
+  BGFMDB: 48e6823027232402a678acc7f71484b1fc9171d0
+
+PODFILE CHECKSUM: 051c5f6c731b2fe6e5a0c476111a289b2fe6d06f
+
+COCOAPODS: 1.5.3
